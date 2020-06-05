@@ -1,0 +1,68 @@
+div.div{
+	float: left;
+	box-sizing: border-box;
+	border: 3px solid black;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	background-color:gray;
+}
+body{
+	margin: 0px;
+}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+}
+@media(max-width: 767px) {
+div{
+	width: 94%;
+	clear: left;
+	margin: 3%;
+	
+}
+}
+@media(min-width: 768px) and (max-width: 991px){
+	div{
+		width: 48.5%;
+		height: 180px;
+	}
+	#Shushi{
+		width: 98%;
+	}
+}
+@media(min-width: 992px){
+	div{
+		width: 32%;
+		float: left;
+		height: 180px
+
+		
+	}
+}
+h2{
+	float: right;
+	width: auto;
+	clear: left;
+	margin-top: 0px;
+	position: relative;
+	position: top right;
+	border-bottom: 3px solid black;
+	border-left: 3px solid black;
+	margin-bottom: 0px;
+}
+#chicken{
+	background-color: #ff790f;
+}
+#beef{
+	background-color: #ff0000;
+}
+#shushi{
+	background-color: #ffff55;
+}
+p{
+	padding: 3%;
+	margin-top:6%;
+}
+section{
+	clear: left;
+}
