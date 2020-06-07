@@ -1,0 +1,47 @@
+h1.text-center{
+	text-transform: capitalize;
+	clear: right;
+	padding-top: 20px;
+	margin-bottom: 20px;
+
+}
+.navbar{
+	float: right;
+	background-color: #ccc;
+	
+
+}
+.navbar{
+	width: 100%;
+}
+.navbar-brand{
+	font-size: 2.1em;
+}
+div.row>div{
+	
+	background-color: #ccc;
+
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+.navbar-toggler{
+	border: 2px solid black;
+}
+.fas {
+	
+	padding-top: 4.8px;
+}
+.col-xs-12{
+	margin-left: 10px;
+	margin-right: 10px
+}
+.nav-link{
+	color: black
+}
+li{
+	border-bottom: 1px solid black;
+}
+.text-center{
+	text-transform: capitalize;
+
+}
