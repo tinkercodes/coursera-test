@@ -45,3 +45,10 @@ li{
 	text-transform: capitalize;
 
 }
+.row{
+	margin-left: -20px;
+	margin-right: -20px;
+}
+div.col-md-4{
+	max-width: 32%;
+}
